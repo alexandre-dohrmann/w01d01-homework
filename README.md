@@ -57,7 +57,7 @@ Good luck!
 
 ```
   const a = 4;
-  const b = 53;
+  const b = 53; 
   const c = 57;
   const d = 16;
   const e = 'Kevin';
